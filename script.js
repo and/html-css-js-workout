@@ -1,6 +1,6 @@
 console.log('Hello from Nerdbord!')
 
-setInterval(changeDivBorderColor, 1000);
+setInterval(changeDivBorderColor, 3000);
 
 function changeDivBorderColor(){
     let box = document.getElementsByClassName('box');
